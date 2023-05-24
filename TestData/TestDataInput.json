@@ -1,0 +1,25 @@
+{
+  "baseUrl": "https://www.tradingview.com/markets/currencies/rates-all/",
+  "UserDetails": {
+    "userName": "PriyankaYadav123",
+    "password": "Test123$"
+  },
+  "RatesCategory": {
+    "continent": "Asia",
+    "currencyTitle": "Asian",
+    "exchangeCode": "FX",
+    "exchangeName": "FXCM"
+  },
+  "Currencies": [
+    {
+      "countryCurrency": "GBP",
+      "countryCode": "GB",
+      "countryTitle": "BRITISH POUND"
+    },
+    {
+      "countryCurrency": "JPY",
+      "countryCode": "JP",
+      "countryTitle": "JAPANESE YEN"
+    }
+  ]
+}
